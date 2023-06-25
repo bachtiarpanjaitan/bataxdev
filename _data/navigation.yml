@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Services"
+    url: /services/
+  - title: "Blogs"
+    url: /year-archive-grid/
