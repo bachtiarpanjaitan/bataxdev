@@ -17,7 +17,7 @@ sidebar:
     image_alt: "Bachtiar Panjaitan"
     text: "Software Engineer"
 list:
-  title: "Skill and Experience"
+  title: "Skills"
   items:
     - title: "PHP Language"
       description: "Native, Laravel, Lumen, CodeIgniter"
@@ -46,7 +46,9 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-
+## Experiences
+- Programmer at PT. Mitra Pasifik Solusindo (2018 - 2020)
+- Software Engineer at PT. Penta Software Indonesia (2021 - Now)
 ## National and International Journals
 - [Motorcycle Safety Technology with IoT](https://www.researchgate.net/publication/358741686_MOTORCYCLE_SAFETY_TECHNOLOGY_WITH_IOT)
   **Politeknik Port Dickson Malaysia** _(2017) eISSN 2504-8457_

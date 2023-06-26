@@ -18,6 +18,8 @@ tags:
   - ExpressJS
 ---
 
+Clone repository using command <code>git clone https://github.com/bachtiarpanjaitan/polygonid.git</code>
+
 **Initialize Install**
 
 make sure you install all required package with ```npm install```
