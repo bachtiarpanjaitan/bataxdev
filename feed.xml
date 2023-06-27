@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Batax Developer</title>
+  <link>https://bataxdev.com</link>
+  <description>Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services.</description>
+  <item>
+    <title>Services</title>
+    <link>https://bataxdev.com/services</link>
+    <description>View our services</description>
+  </item>
+  <item>
+    <title>Projects</title>
+    <link>https://bataxdev.com/projects</link>
+    <description>Our Projects</description>
+  </item>
+  <item>
+    <title>Blogs</title>
+    <link>https://bataxdev.com/blogs</link>
+    <description>We have some usefull article for you.</description>
+  </item>
+</channel>
+</rss>

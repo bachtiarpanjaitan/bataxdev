@@ -7,3 +7,18 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.h-card {
+    float: left
+}
+.author__urls {
+    right: -72px;
+}
+.sidebar>* {
+    margin-bottom: 0;
+}
+
+.author__content {
+    padding-left: 0px;
+    padding-right: 0px;
+}

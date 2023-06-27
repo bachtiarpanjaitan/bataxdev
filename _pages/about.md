@@ -8,7 +8,7 @@ toc_sticky: true
 permalink: /about/
 excerpt: "I have experience as a Fullstack Web Developer for 6 years and Desktop App Developer for 2 years. I usually work on projects using PHP, Javascript and CSS frameworks so that the process of working on a website application can be faster. I am currently building several PHP packages that I publish on packagist so that they can be used by other developers."
 header:
-  image: "/assets/images/bachtiarpanjaitan-cover.jpg"
+  # image: "/assets/images/bachtiarpanjaitan-cover.jpg"
   teaser: "/assets/images/bachtiarpanjaitan-cover.jpg"
   og_image: "/assets/images/bachtiarpanjaitan-cover.jpg"
 sidebar:
@@ -16,25 +16,6 @@ sidebar:
     image: '/assets/images/bachtiarpanjaitan-1.jpg'
     image_alt: "Bachtiar Panjaitan"
     text: "Software Engineer"
-list:
-  title: "Programming Skills"
-  items:
-    - title: "PHP Language"
-      description: "Native, Laravel, Lumen, CodeIgniter"
-    - title: "JavaScript Language"
-      description: "Native, ExpressJS, VueJS, NuxtJS"
-    - title: "CSS Framework"
-      description: "Native, Bootstrap, Quasar, Tailwind"
-    - title: "C++ Language"
-      description: "Native, Arduino"
-    - title: "C# Language"
-      description: ".net"
-    - title: "Database Management"
-      description: "MySQL, SQLServer, PostgreSQL, MongoDB, SQLite, Firebase"
-    - title: "Server Management"
-      description: "Linux Ubuntu, Apache2, NginX"
-    - title: "Robotic & IoT"
-      description: "Arduino, Raspberry Pi"
 gallery:
   - url: /assets/images/respect-3.jpg
     image_path: assets/images/respect-3.jpg
@@ -62,6 +43,7 @@ gallery3:
 ---
 
 <a target="_blank" href="https://drive.google.com/file/d/1v7MQq7GSMM88iEoEocyVavIo_WaV7iHa/view?usp=sharing"><button class="btn btn--primary">Download My CV</button></a>
+
 ## Introduction
 I have experience as a Fullstack Web Developer for 6 years and Desktop App Developer for 2 years. I
 usually work on projects using PHP, Javascript and CSS frameworks so that the process of working

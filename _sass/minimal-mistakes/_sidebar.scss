@@ -212,7 +212,7 @@
 
   button {
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 
     &:before {
       @supports (pointer-events: none) {
