@@ -17,7 +17,7 @@ sidebar:
     image_alt: "Bachtiar Panjaitan"
     text: "Software Engineer"
 list:
-  title: "Skills"
+  title: "Programming Skills"
   items:
     - title: "PHP Language"
       description: "Native, Laravel, Lumen, CodeIgniter"
@@ -36,26 +36,67 @@ list:
     - title: "Robotic & IoT"
       description: "Arduino, Raspberry Pi"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/respect-3.jpg
+    image_path: assets/images/respect-3.jpg
+    alt: "My Team at Kualanamu Airport"
+  - url: /assets/images/respect-1.jpg
+    image_path: assets/images/respect-1.jpg
+    alt: "Respect Contigent 2017"
+  - url: /assets/images/respect-2.jpg
+    image_path: assets/images/respect-2.jpg
+    alt: "Bachtiar Panjaitan"
+gallery2:
+  - url: /assets/images/os.jpg
+    image_path: assets/images/os.jpg
+    alt: "Scholarship Submission"
+  - url: /assets/images/os-2.jpg
+    image_path: assets/images/os-2.jpg
+    alt: "With my mother"
+gallery3:
+  - url: /assets/images/dh-2.jpg
+    image_path: assets/images/dh-2.jpg
+    alt: "Working some project at Dilo Hackathon 2018"
+  - url: /assets/images/dh.jpg
+    image_path: assets/images/dh.jpg
+    alt: "All Winner Dilo Hackathon 2018"
 ---
+
+<a target="_blank" href="https://drive.google.com/file/d/1v7MQq7GSMM88iEoEocyVavIo_WaV7iHa/view?usp=sharing"><button class="btn btn--primary">Download My CV</button></a>
+## Introduction
+I have experience as a Fullstack Web Developer for 6 years and Desktop App Developer for 2 years. I
+usually work on projects using PHP, Javascript and CSS frameworks so that the process of working
+on a website application can be faster. I am currently building several PHP packages that I publish on
+packagist so that they can be used by other developers.
+
 ## Experiences
 - Programmer at PT. Mitra Pasifik Solusindo (2018 - 2020)
 - Software Engineer at PT. Penta Software Indonesia (2021 - Now)
 
+## Programming Skills
+- PHP Language
+  <div style="font-style: italic; color: gray; font-size: smaller;">Native, Laravel, Lumen,CodeIgniter </div>
+- JavaScript Language
+  <div style="font-style: italic; color: gray; font-size: smaller;">Native, ExpressJS, VueJS, NuxtJS</div>
+- CSS Framework
+  <div style="font-style: italic; color: gray; font-size: smaller;">Native, Bootstrap, Quasar,Tailwind" </div>
+- C++ Language
+  <div style="font-style: italic; color: gray; font-size: smaller;">Native, Arduino</div>
+- C# Language
+  <div style="font-style: italic; color: gray; font-size: smaller;">.net</div>
+- Database Management
+  <div style="font-style: italic; color: gray; font-size: smaller;">MySQL, SQLServer, PostgreSQL, MongoDB, SQLite, Firebase </div>
+- Server Management
+  <div style="font-style: italic; color: gray; font-size: smaller;">Linux Ubuntu, Apache2, NginX </div>
+- Robotic & IoT
+  <div style="font-style: italic; color: gray; font-size: smaller;">Arduino, Raspberry Pi</div>
 
 ## National and International Journals
-- [Motorcycle Safety Technology with IoT](https://www.researchgate.net/publication/358741686_MOTORCYCLE_SAFETY_TECHNOLOGY_WITH_IOT)
-  **Politeknik Port Dickson Malaysia** _(2017) eISSN 2504-8457_
-  
+- [(MIOT) Motorcycle Safety Technology with IoT](https://www.researchgate.net/publication/358741686_MOTORCYCLE_SAFETY_TECHNOLOGY_WITH_IOT) at Politeknik Port Dickson Malaysia _(2017) eISSN 2504-8457_
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LW_LIyymzJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
   The number of population growth rapidly, so the needs of motorcyle increase. The rapid growth of Population also has a negative impact, such as unemployment and crime. This device that can be mounted on a motorcycle and able to reduce the theft of motorcycles on. This tool facilitates security and control the motorcycle by the owner. By using the main components of ARDUINO UNO as a microcontroller, RFID module as motorcycle engine controller, BLUETOOTH module serves as liaison arduino and android phone.
+  
 
 ## What's i've worked on
 - [HRIS Pancaduta Prakarsa](https://hrattpancaduta.com) <small>_(Fullstack Programmer : 2023)_</small>
@@ -82,3 +123,10 @@ gallery:
   <div>Development HR web application, attendance, payroll integrated with any platform including Android and iOS using C#, .net Framework, NuxtJs, SQlServer DMBS.</div>
 
 ## Archivements
+{% include gallery id="gallery" caption="(**Gold Medal**) IRSTC 2017 & RESPEX2017 at Politeknik Port Dickson Malaysia" %}
+
+{% include gallery id="gallery2" caption="Outstanding Students 2018 at Politeknik LP3I Medan" %}
+
+{% include gallery id="gallery3" caption="**Rank 3th** at Dilo Hackathon Medan 2018" %}
+___
+  
