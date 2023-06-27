@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-2.jpg
   og_image: /assets/images/navicate.png
 categories:
-  - Tips & Tricks
+  - TipsAndTricks
 tags:
   - Macbook
   - M1
