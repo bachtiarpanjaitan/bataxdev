@@ -21,7 +21,7 @@ tags:
   - laravel
 ---
 
-<p align="center"><a href="https://bataxdev.com/projects/btx-btx" target="_blank"><img src="https://api.bataxdev.com/uploads/btx_packagist_18b5e6f8b1.png" width="400" alt="Btx Packagist Logo"></a></p>
+<p align="center"><img src="/assets/images/btx-packagist.png" width="400" alt="Btx Packagist Logo"></p>
 
 <p align="center">
     <a href="https://packagist.org/packages/btx/btx?"><img src="https://img.shields.io/packagist/dt/btx/btx?style=flat-square" alt="Total Downloads"></a>

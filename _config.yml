@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bachtiarpanjaitan0@@gmail.com"
+      url: "mailto:info@bataxdev.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,20 +121,20 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/BachtiarPanjaitan93"
+      url: "https://www.facebook.com/bataxdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bachtiarpanjaitan"
+      url: "https://github.com/bataxdev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bachtiar.panjaitan"
+      url: "https://www.instagram.com/bataxdev"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bachtiarpanjaitan0@@gmail.com"
+      url: "mailto:info@bataxdev.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://bataxdev.com"
@@ -143,13 +143,13 @@ footer:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/BachtiarPanjaitan93"
+      url: "https://www.facebook.com/bataxdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bachtiarpanjaitan"
+      url: "https://github.com/bataxdev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/bachtiar.panjaitan"
+      url: "https://www.instagram.com/bataxdev"
 
 
 # Reading Files

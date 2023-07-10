@@ -6,6 +6,11 @@
   <link>https://bataxdev.com</link>
   <description>Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services.</description>
   <item>
+    <title>About</title>
+    <link>https://bataxdev.com/about</link>
+    <description>About me</description>
+  </item>
+  <item>
     <title>Services</title>
     <link>https://bataxdev.com/services</link>
     <description>View our services</description>
