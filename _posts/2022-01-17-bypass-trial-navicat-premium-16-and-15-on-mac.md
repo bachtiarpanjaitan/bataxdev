@@ -13,6 +13,7 @@ categories:
 tags:
   - Macbook
   - M1
+image: /assets/images/navicate.png
 ---
 
 Sometimes macbook users feel disappointed because almost all the applications in the AppStore are paid or subscribed so they can use the desired application. Like my experience where I had to subscribe to the Navicat application by paying more than 1 million per month so I could use the tool I really needed. After several methods that I did, I finally found a way to bypass the Navicat trial where previously I had used the trial version but had reached the trial time that had been determined for 2 weeks. Here are the steps you have to take to bypass the Navicat trial version.

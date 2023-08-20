@@ -1,7 +1,5 @@
 ---
 permalink: /image/
-image:
-  path: /assets/images/bachtiarpanjaitan-1.jpg
-  alt: Bachtiar Panjaitan
+image: /assets/images/bachtiarpanjaitan-1.jpg
 ---
-<img src="{{ page.image.path }}" alt="{{page.image.alt}}"/>
+<img src="{{ page.image }}" alt="image"/>

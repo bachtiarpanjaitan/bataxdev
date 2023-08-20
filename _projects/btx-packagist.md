@@ -19,6 +19,7 @@ tags:
   - php
   - packagist
   - laravel
+image: /assets/images/btx-p.png
 ---
 
 <p align="center"><img src="/assets/images/btx-packagist.png" width="400" alt="Btx Packagist Logo"></p>

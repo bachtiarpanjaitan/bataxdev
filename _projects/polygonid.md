@@ -16,6 +16,7 @@ categories:
   - API
 tags:
   - ExpressJS
+image: /assets/images/polygonid.jpg
 ---
 
 Clone repository using command <code>git clone https://github.com/bachtiarpanjaitan/polygonid.git</code>

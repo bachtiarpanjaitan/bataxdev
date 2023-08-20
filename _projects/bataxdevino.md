@@ -15,6 +15,7 @@ categories:
 tags:
   - C++
   - Arduino
+image: /assets/images/library.jpg
 ---
 
 **How to use it ?**

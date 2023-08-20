@@ -14,6 +14,7 @@ tags:
   - React Native
   - iOS
   - Expo
+image: /assets/images/expo.webp
 ---
 
 When you build apps for iOS using React Native, sometimes you will encounter problems while running the build, one of them is that you don't find the ExpoModulesCore package as shown below.
