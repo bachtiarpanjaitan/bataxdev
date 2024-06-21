@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "To Make Something Great" # site tagline that appears below site title in masthead
 name                     : "Bataxdev"
 description              : "Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services."
-url                      : "https://bataxdev.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bataxdev.basapadi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "bachtiarpanjaitan/bataxdev" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
