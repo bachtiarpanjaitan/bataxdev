@@ -3,26 +3,26 @@
 
 <channel>
   <title>Batax Developer</title>
-  <link>https://bataxdev.com</link>
+  <link>https://bataxdev.basapadi.com</link>
   <description>Batax Developer is a business engaged in the creation and development of software, hardware, system design and maintenance services.</description>
   <item>
     <title>About</title>
-    <link>https://bataxdev.com/about</link>
+    <link>https://bataxdev.basapadi.com/about</link>
     <description>About me</description>
   </item>
   <item>
     <title>Services</title>
-    <link>https://bataxdev.com/services</link>
+    <link>https://bataxdev.basapadi.com/services</link>
     <description>View our services</description>
   </item>
   <item>
     <title>Projects</title>
-    <link>https://bataxdev.com/projects</link>
+    <link>https://bataxdev.basapadi.com/projects</link>
     <description>Our Projects</description>
   </item>
   <item>
     <title>Blogs</title>
-    <link>https://bataxdev.com/blogs</link>
+    <link>https://bataxdev.basapadi.com/blogs</link>
     <description>We have some usefull article for you.</description>
   </item>
 </channel>

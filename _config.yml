@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@bataxdev.com"
+      url: "mailto:info@bataxdev.basapadi.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,10 +134,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@bataxdev.com"
+      url: "mailto:info@bataxdev.basapadi.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://bataxdev.com"
+      # url: "https://bataxdev.basapadi.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

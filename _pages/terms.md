@@ -9,7 +9,7 @@ toc: true
 
 <p>Welcome to bataxdev!</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of Batax Developer's Website, located at https://bataxdev.com.</p>
+<p>These terms and conditions outline the rules and regulations for the use of Batax Developer's Website, located at https://bataxdev.basapadi.com.</p>
 
 <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use bataxdev if you do not agree to take all of the terms and conditions stated on this page.</p>
 

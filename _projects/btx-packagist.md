@@ -10,7 +10,7 @@ header:
   og_image: /assets/images/btx-p.png
   actions:
     - label: "View Documentation"
-      url: "https://btx.bataxdev.com"
+      url: "https://btx.bataxdev.basapadi.com"
 categories:
   - PHP
   - Laravel
@@ -99,5 +99,5 @@ then, dump autoload using command <code>composer dump-autoload</code>.
 
 ```
 
-See detail documentations on [Btx Documentation](https://btx.bataxdev.com)
+See detail documentations on [Btx Documentation](https://bataxdev.basapadi.com)
 
